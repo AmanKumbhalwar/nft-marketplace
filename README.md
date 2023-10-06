@@ -3,7 +3,7 @@
 
 ## Description
 
-This is the 'polygon-next' project. It's a private project and its current version is 0.1.0.
+This is the 'NFT Marketplace' project. 
 
 ## Scripts
 
